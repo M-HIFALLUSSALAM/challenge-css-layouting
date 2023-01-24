@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 200px;
+    background-color: blue;
+}
+
+menu {
+    height: 40px;
+    background-color: red;
+}
+
+.content {
+    height: 600px;
+}
+
+main {
+    float: left;
+    width: 70%;
+    height: 600px;
+    background-color: gray;
+}
+
+.isi {
+   padding: 25px 15px;
+}
+
+.navigasi {
+    padding: 30px 25px;
+}
+
+.sidebar {
+    float: right;
+    width: 30%;
+    height: 600px;
+    background-color: rgb(196, 196, 196);
+}
+
+.clear {
+    clear: both;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
